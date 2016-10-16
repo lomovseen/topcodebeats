@@ -1,0 +1,633 @@
+.navigationLeftBottom { display: none; }
+
+.mainTable .mainContent .mainContent {
+    position: absolute;
+    top: 3186px;
+}
+
+.mainTable .mainContent .mainContent form { margin-left: 300px; }
+.mainTable .mainContent .mainContent .mlbody { background: none; }
+.mainTable .mainContent .mainContent .mlheadline { display: none }
+
+.pageFooter {
+    position: absolute;
+    top: 3300px;
+    width: 100%;
+}
+
+.mainTable .mainContent:nth-child(2):first div:nth-child(2):first div:nth-child(4) {
+    position: absolute;
+    top: 1000px; margin-left: 20px; width: 520px;
+}
+
+
+/* tag cloud */
+	.tagCloud {padding:10px;}
+	.tagCloud .cloudItem {float:left; padding:2px; white-space:nowrap; margin:0 6px 0 0;}
+	.tagCloud .cloudItem:hover {background:#005782; color:white; cursor:pointer;}
+	.tagCloud .cloudS10 {font-size:10px; color:#aaaaaa;}
+	.tagCloud .cloudS20 {font-size:11px; color:#aaaaaa;}
+	.tagCloud .cloudS30 {font-size:11px; color:#999999;}
+	.tagCloud .cloudS40 {font-size:12px; color:#999999;}
+	.tagCloud .cloudS50 {font-size:14px; color:#666666;}
+	.tagCloud .cloudS60 {font-size:16px; color:#666666;}
+	.tagCloud .cloudS70 {font-size:18px; color:#333333;}
+	.tagCloud .cloudS80 {font-size:22px; color:#333333;}
+	.tagCloud .cloudS90 {font-size:28px; color:#111111; }
+	.tagCloud .cloudS100 {font-size:36px; color:#111111;}
+	.tagCloudMore {padding:6px 0 0 0; margin:0 10px; text-align:center; border-top:#ccc solid 1px; font-size:11px;}
+	.tagCloudMore a, .tagCloudMore a:link, .tagCloudMore a:visited {color:#999; text-decoration:none;}
+	.tagCloudMore a:hover {color:red; text-decoration:underline; cursor:pointer;}
+
+ /* tag cloud */
+	.tagCloud {padding:10px;}
+	.tagCloud .cloudItem {float:left; padding:2px; white-space:nowrap; margin:0 6px 0 0;}
+	.tagCloud .cloudItem:hover {background:#005782; color:white; cursor:pointer;}
+	.tagCloud .cloudS10 {font-size:10px; color:#aaaaaa;}
+	.tagCloud .cloudS20 {font-size:11px; color:#aaaaaa;}
+	.tagCloud .cloudS30 {font-size:11px; color:#999999;}
+	.tagCloud .cloudS40 {font-size:12px; color:#999999;}
+	.tagCloud .cloudS50 {font-size:14px; color:#666666;}
+	.tagCloud .cloudS60 {font-size:16px; color:#666666;}
+	.tagCloud .cloudS70 {font-size:18px; color:#333333;}
+	.tagCloud .cloudS80 {font-size:22px; color:#333333;}
+	.tagCloud .cloudS90 {font-size:28px; color:#111111; }
+	.tagCloud .cloudS100 {font-size:36px; color:#111111;}
+	.tagCloudMore {padding:6px 0 0 0; margin:0 10px; text-align:center; border-top:#ccc solid 1px; font-size:11px;}
+	.tagCloudMore a, .tagCloudMore a:link, .tagCloudMore a:visited {color:#999; text-decoration:none;}
+	.tagCloudMore a:hover {color:red; text-decoration:underline; cursor:pointer;}
+
+
+/* www.elvissalic.com Soundclick CSS style sheet 2015 Oct*/ 
+
+       .mainTable {
+         background: transparent;
+         color:#6f6f6f;
+         width:921px;
+         margin-left:auto;
+         margin-right:auto;
+         text-align:left;
+         border: none;
+         }
+.mainContent {
+        background: transparent;
+        color:#BCBCBC;
+        width:921px;
+        float:left;
+        overflow:hidden;
+        margin:10px 0px 20px 0px;
+        } 
+        .navbarBottom, .navbarTop {width:921px;}
+
+.navigation {
+        /* background: url(); */
+        /* color:#000; */
+        /* width:921px; */
+        /* height: 2410px; */
+        /* float:left; */
+        /* z-index:9; */
+        /* overflow:hidden; */
+        /* margin:-5px 0px -25px 0px; */
+        }
+
+.navigation a, .navigationDivider, .navigation .headline, .navigation .div, .navigation img {display:none;}
+        .navigation
+        .mlheadline {display:none;}
+        .mlprivacy {display:none;}
+        .contText form {height:150px;}
+        .contText a {border:none;}
+
+
+
+.statsNumbers{ z-index: 10;  position: absolute ; width:0px; height: 0px; text-align:center ; font-size:100%;
+color: #291f06; top: 26px; opacity: 1; margin: auto 676px; font-size:9px; }
+
+
+ .completeNavHeader {z-index: 999;  position:relative; opacity: 100; top:-999px;}
+
+
+.headline {display:none;}
+.headlineBig {display:none;}
+.headlineSuppl {float:right; margin:10px 5px 0px 0px; color:#666666; font-size:0px; font-weight:normal;} 
+.headlineSuppl a:link, .headlineSuppl a:visited {color:#929292; text-decoration:none;}
+.headlineSuppl a:hover {color:white; text-decoration:underline;}
+
+
+.pageturner {background:transparent; color:#666666; border:#ccc solid 0px; text-align:center; padding:10px; font-size:14px; font-weight:normal;} 
+.pageturner .nonactive {color:#666666;}
+.pageturner a:link, .pageturner a:visited {color:#666666; text-decoration:none;}
+.pageturner a:hover {color:#929292; text-decoration:underline;}
+
+
+.listedPicsBox {border:#222222 solid 1px; width:114px; height:160px; overflow:hidden; padding:2px 1px 4px 1px; margin:0px 4px 10px 4px; float:left; font-size:11px; text-align:center;}
+.listedPics {width:110px; height:125px; background-position: center center; background-repeat: no-repeat; margin:2px 0px 4px 0px; overflow:hidden}
+.breaker {height:1px; line-height:1px; clear:both}
+
+
+.color_supplemental {color:#ff0000;}
+.alternateBG0 {background:none;}
+.alternateBG1 {background:none;}
+.mainContent .contHeadline {clear:left; font-size:0px; color:#929292; padding:12px 0px 2px 20px;} 
+.mainContent .contText {clear:left; padding-left:0px;}
+.mainContent .contInterview {clear:left; padding-left:0px;}
+.mainContent .newsBox {clear:both; background:#bfbfbf; color:#000; border:#222222 solid 2px; margin:0px 20px 20px 20px; padding:20px;}
+.playerBox {float:left; clear:left; padding-left:20px; margin:15px 0px 3px 0px;}
+.playerBox .playerHead {background:; color:#000000; border-top:#bfbfbf solid 1px; border-bottom:#bfbfbf solid 1px; text-align:right; font-size:10px; padding:3px 5px 3px 3px;}
+.playerBox .playerHead a:link,.playerBox .playerHead a:visited {color:#bfbfbf; text-decoration:underline;}
+.playerBox .playerHead a:hover {color:#bfbfbf; text-decoration:underline;}
+.playerBox .songBox {background:#bfbfbf; border-bottom:#bfbfbf solid 1px; width:330px; padding:3px 0px 0px 1px; overflow:auto;}
+.playerBox .songBox .singleSong {color:; font-size:10px; padding:1px;}
+.playerBox .songBox .singleSong:hover {background:; color:#bfbfbf; cursor:pointer;}
+.embeddedPlayer { font-size:12px; margin-left:-308px; padding40px; position:absolute; margin-top:839px; width:620px; z-index:5; left: 50%; top: 0;}
+.contHeadline {display:none;}
+
+
+
+.embeddedPlayer { font-size:12px; margin-left: -476px; padding40px; position:absolute; margin-top: 991px; width:620px; z-index:55; left: 50%; top: 0;}
+.contHeadline {display:none;}
+
+
+.pageFooter {clear:both; color:#656161; padding:30px 0px 10px 20px; margin-left:auto; margin-right:auto; text-align:center;} 
+
+
+.songsBox {border-bottom:#000 dashed 0px; width:510px; float:left; padding-bottom:2px; margin-bottom:38px; color:#fff!important;}
+        .songsBox {background: url(http://www.elvissalic.com/Mota_Beatz_2015/extended_catalog.png); background-repeat: no-repeat; background-position: top right;}
+.songsBox a:link, .songsBox a:visited {color: #a1a1a1;-webkit-transition: .5s all ease-in-out;-moz-transition: .5s all ease-in-out;
+-o-transition: .5s all ease-in-out;transition: .5s all ease-in-out;no-repeat;}
+.songsBox a:hover {text-decoration:underline; color:#ca022e;}
+a.songtitle:link, a.songtitle:visited {color: #c6c6c6; text-decoration:none; font-size:14px; }
+.songsBox .actionlinks {font-size:11px; color: #ca022e;	} 
+.songsBox .topSong {-webkit-transition: .5s all ease-in-out;-moz-transition: .5s all ease-in-out;
+-o-transition: .5s all ease-in-out;transition: .5s all ease-in-out;color:#e72a45; float:left; text-align:left; font-size:10px; font-weight: 600;}
+.songsBox .topSong:hover {color:#f1b421; float:left; text-align:left; font-size:11px;right:20px;}
+.color_supplemental {
+color: #e8e6eb;
+}
+
+.commentsWelcome {background:; color:#000; margin:0px 20px 20px 20px; padding:20px; border:#000 solid 1px;}
+.commentsBox {border-bottom:#CCC dashed 0px; padding-top:5px; color:#5d5d5d;}
+.commentsBox a:link, .commentsBox a:visited {text-decoration:none; color: #5d5d5d;}
+.commentsBox a:hover {text-decoration:underline; color:#5d5d5d; background-image: url();}
+.commentsBox .songComment {border-bottom:#CCC dashed 0px; color: #CCC; font-size:11px; padding:1px 3px; margin-bottom:5px; color:#5d5d5d;}
+.commentsBox .postdate {color:#CCC; font-size:11px; font-weight:normal; text-align:right; margin:0px 5px 10px 0px; color:#5d5d5d;}
+.commentsBox .postdate a:link, .commentsBox .postdate a:visited {text-decoration:none;} /* for delete/edit links */
+.commentsBox .postdate a:hover {text-decoration:underline;}
+.commentsBox .comment {font-size:12px; padding:0px 5px 0px 140px; color:#5d5d5d; background-image: url();}
+.commentsBox .bandSignature {border-top:#CCC dashed 1px; color:#CCC; width:310px; margin-top:15px; line-height:20px; color:#000;}
+.commentsBox .ratingsBox {float:right; width:220px; border-left:#CCC dashed 1px; margin-bottom:10px;}
+.ratingsBox .label {width:115px; text-align:right; float:left; padding-right:20px;} /* also used for .commentsPostBox .ratingsBox */
+.commentsPostBox {padding:10px; margin:20px 0px; background:#CCC; color:#5d5d5d; border-top:black solid 2px; border-bottom:black solid 1px;}
+.commentsPostBox .ratingsBox {background:#000; color:#CCC; clear:both; padding:7px 0px; margin:0px 250px 20px 30px;}
+
+
+
+
+body {
+    background-image: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/main.png);
+    background-color: #fff;
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    height: 3350px;
+}
+
+img { border: none; }
+
+body, div, textarea {
+    font-family: Verdana;
+    font-size:10px;
+    color: #a1a1a1;
+}
+
+option, tr, td {
+    color: #000;
+    font-family:Verdana;
+    font-size:10px;
+}
+
+a, a:link, a:visited {color: #3c3b40;
+    text-decoration:none;
+}
+
+a:hover {
+    color:#6f6f6f;
+    text-decoration:underline;
+}
+
+.countdown_banner {
+    top: 0px;
+    margin-top: 536px;
+    left: 50%;
+    margin-left: -266px;
+    position: absolute;
+}
+
+
+
+.instant_store {
+    width: 610px;
+    height: 385px;
+    left: 50%;
+    margin-left: -472px;
+    margin-top: 1296px;
+    top: 0;
+    z-index: 4;
+    position: absolute;
+}
+
+.mfs_player {
+    position: relative; 
+    height: 385px; 
+    width: 610px; 
+}
+
+.mfs_buynow {
+	width:67px;
+	height: 19px;
+	position:absolute;
+	top: 357px;
+	left: 535px;
+}
+
+
+
+/*******Social Top Nav Bar Buttons*******/ 
+#email {
+background: url(http://elvissalic.com/beatscraze_oct/top_email.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+width: 152px;
+height: 33px;
+left: 50%;
+margin-left: -515px;
+margin-top: 0px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#email:hover {
+opacity: .7;
+}
+
+
+
+#twitter {
+background: url(http://elvissalic.com/beatscraze_oct/twitter.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+width: 26px;
+height: 25px;
+left: 50%;
+margin-left: 400px;
+margin-top: 20px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#twitter:hover {
+background-position: bottom right;
+}
+
+
+
+#facebook {
+background: url(http://elvissalic.com/beatscraze_oct/facebook.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+width: 27px;
+height: 25px;
+left: 50%;
+margin-left: 426px;
+margin-top: 20px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#facebook:hover {
+background-position: bottom right;
+}
+
+
+#instagram {
+background: url(http://elvissalic.com/beatscraze_oct/instagram.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+width: 27px;
+height: 25px;
+left: 50%;
+margin-left: 453px;
+margin-top: 20px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#instagram:hover {
+background-position: bottom right;
+}
+
+
+#soundcloud {
+background: url(http://elvissalic.com/beatscraze_oct/soundcloud.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+width: 27px;
+height: 25px;
+left: 50%;
+margin-left: 480px;
+margin-top: 20px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#soundcloud:hover {
+background-position: bottom right;
+}
+
+
+#youtube {
+background: url(http://elvissalic.com/beatscraze_oct/youtube.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+width: 26px;
+height: 25px;
+left: 50%;
+margin-left: 506px;
+margin-top: 20px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#youtube:hover {
+background-position: bottom right;
+}
+
+
+#visitoursite {
+background: url(http://elvissalic.com/beatscraze_oct/website.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+width: 999px;
+height: 227px;
+left: 50%;
+margin-left: -500px;
+margin-top: 2711px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#visitoursite:hover {
+background-position: bottom right;
+}
+
+
+
+#free_downloads {
+background: url(http://elvissalic.com/beatscraze_oct/demo.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 999px;
+height: 227px;
+margin-left: -500px;
+margin-top: 3068px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#free_downloads:hover {
+background-position: bottom right;
+} 
+			
+
+
+
+#license_bttn {
+background: url(http://elvissalic.com/beatscraze_oct/chart_bttn.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 312px;
+height: 44px;
+margin-left: -489px;
+margin-top: 2374px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#license_bttn:hover {
+opacity: 0;
+} 
+			
+
+
+
+#license_bttn2 {
+background: url(http://elvissalic.com/beatscraze_oct/chart_bttn.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 312px;
+height: 44px;
+margin-left: -157px;
+margin-top: 2374px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#license_bttn2:hover {
+opacity: 0;
+} 
+			
+
+
+
+#license_bttn3 {
+background: url(http://elvissalic.com/beatscraze_oct/chart_bttn.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 312px;
+height: 44px;
+margin-left: 175px;
+margin-top: 2374px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#license_bttn3:hover {
+opacity: 0;
+} 	
+			
+
+
+
+#license_bttn4 {
+background: url(http://elvissalic.com/beatscraze_oct/chart_bttn.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 270px;
+height: 44px;
+margin-left: 295px;
+margin-top: 2364px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#license_bttn4:hover {
+opacity: 0;
+} 			
+
+
+
+#mailing_listbttn {
+background: url(http://elvissalic.com/beatscraze_oct/30off_sale.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 308px;
+height: 188px;
+margin-left: 185px;
+margin-top: 975px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#mailing_listbttn:hover {
+background-position: bottom right;
+} 
+
+
+
+#bitcoin_reg {
+background: url(http://elvissalic.com/beatscraze_oct/bitcoin_buynow.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 350px;
+height: 66px;
+margin-left: -565px;
+margin-top: 2661px;
+top: 0;
+z-index: 4;
+position: absolute;
+display:none;
+}
+#bitcoin_reg:hover {
+background-position: bottom right;
+} 
+
+
+
+#bitcoin_premium {
+background: url(http://elvissalic.com/beatscraze_oct/bitcoin_buynow.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 350px;
+height: 66px;
+margin-left: -175px;
+margin-top: 2661px;
+top: 0;
+z-index: 4;
+position: absolute;
+display:none;
+}
+#bitcoin_premium:hover {
+background-position: bottom right;
+} 
+
+
+
+#bitcoin_professional {
+background: url(http://elvissalic.com/beatscraze_oct/bitcoin_buynow.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 350px;
+height: 66px;
+margin-left: 216px;
+margin-top: 2661px;
+top: 0;
+z-index: 4;
+position: absolute;
+display:none;
+}
+#bitcoin_professional:hover {
+background-position: bottom right;
+} 
+	
+
+
+#whati_btc {
+background: url(http://elvissalic.com/beatscraze_oct/whats_btc.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 350px;
+height: 46px;
+margin-left: -565px;
+margin-top: 2754px;
+top: 0;
+z-index: 4;
+position: absolute;
+display:none;
+}
+#whati_btc:hover {
+background-position: bottom right;
+} 	
+
+
+#howtobuy_btc {
+background: url(http://elvissalic.com/beatscraze_oct/howto_btc.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 350px;
+height: 46px;
+margin-left: -175px;
+margin-top: 2754px;
+top: 0;
+z-index: 4;
+position: absolute;
+display:none;
+}
+#howtobuy_btc:hover {
+background-position: bottom right;
+} 
+
+
+#howtoget_btc {
+background: url(http://elvissalic.com/beatscraze_oct/howtoget_btc.png) repeat scroll 0 0 transparent;
+background-position: bottom left;
+display: block;
+left: 50%;
+width: 350px;
+height: 46px;
+margin-left: 216px;
+margin-top: 2754px;
+top: 0;
+z-index: 4;
+position: absolute;
+display:none;
+}
+#howtoget_btc:hover {
+background-position: bottom right;
+}
+
+#sellmusic_bttn {
+background: url(http://elvissalic.com/beatscraze_oct/sellmusic_online.png) repeat scroll 0 0 transparent;
+background-position: bottom right;
+display: block;
+left: 50%;
+width: 787px;
+height: 161px;
+margin-left: -386px;
+margin-top: 2481px;
+top: 0;
+z-index: 4;
+position: absolute;
+}
+#sellmusic_bttn:hover {
+background-position: bottom left;
+} 

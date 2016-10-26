@@ -138,10 +138,19 @@ color: #291f06; top: 26px; opacity: 1; margin: auto 676px; font-size:9px; }
 .playerBox .songBox {background:#bfbfbf; border-bottom:#bfbfbf solid 1px; width:330px; padding:3px 0px 0px 1px; overflow:auto;}
 .playerBox .songBox .singleSong {color:; font-size:10px; padding:1px;}
 .playerBox .songBox .singleSong:hover {background:; color:#bfbfbf; cursor:pointer;}
-.embeddedPlayer { font-size:12px; margin-left:-308px; padding40px; position:absolute; margin-top:839px; width:620px; z-index:5; left: 50%; top: 0;}
+
+.embeddedPlayer {
+    font-size: 12px;
+    margin-left: -482px;
+    position: absolute;
+    margin-top: 1026px;
+    width: 620px;
+    z-index: 55;
+    left: 50%;
+    top: 0;
+}
+
 .contHeadline {display:none;}
-
-
 
 .embeddedPlayer { font-size:12px; margin-left: -476px; padding40px; position:absolute; margin-top: 991px; width:620px; z-index:55; left: 50%; top: 0;}
 .contHeadline {display:none;}

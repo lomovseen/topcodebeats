@@ -1,3 +1,28 @@
+.instant_store {
+    width: 610px;
+    height: 385px;
+    left: 50%;
+    margin-left: -486px;
+    margin-top: 2418px;
+    top: 0;
+    z-index: 4;
+    position: absolute;
+}
+
+.mfs_player {
+    position: relative; 
+    height: 385px; 
+    width: 610px; 
+}
+
+.mfs_buynow {
+    width:67px;
+    height: 19px;
+    position:absolute;
+    top: 357px;
+    left: 535px;
+}
+
 .navigationLeftBottom { display: none; }
 
 .mainTable .mainContent .mainContent {
@@ -22,40 +47,40 @@
 
 
 /* tag cloud */
-	.tagCloud {padding:10px;}
-	.tagCloud .cloudItem {float:left; padding:2px; white-space:nowrap; margin:0 6px 0 0;}
-	.tagCloud .cloudItem:hover {background:#005782; color:white; cursor:pointer;}
-	.tagCloud .cloudS10 {font-size:10px; color:#aaaaaa;}
-	.tagCloud .cloudS20 {font-size:11px; color:#aaaaaa;}
-	.tagCloud .cloudS30 {font-size:11px; color:#999999;}
-	.tagCloud .cloudS40 {font-size:12px; color:#999999;}
-	.tagCloud .cloudS50 {font-size:14px; color:#666666;}
-	.tagCloud .cloudS60 {font-size:16px; color:#666666;}
-	.tagCloud .cloudS70 {font-size:18px; color:#333333;}
-	.tagCloud .cloudS80 {font-size:22px; color:#333333;}
-	.tagCloud .cloudS90 {font-size:28px; color:#111111; }
-	.tagCloud .cloudS100 {font-size:36px; color:#111111;}
-	.tagCloudMore {padding:6px 0 0 0; margin:0 10px; text-align:center; border-top:#ccc solid 1px; font-size:11px;}
-	.tagCloudMore a, .tagCloudMore a:link, .tagCloudMore a:visited {color:#999; text-decoration:none;}
-	.tagCloudMore a:hover {color:red; text-decoration:underline; cursor:pointer;}
+    .tagCloud {padding:10px;}
+    .tagCloud .cloudItem {float:left; padding:2px; white-space:nowrap; margin:0 6px 0 0;}
+    .tagCloud .cloudItem:hover {background:#005782; color:white; cursor:pointer;}
+    .tagCloud .cloudS10 {font-size:10px; color:#aaaaaa;}
+    .tagCloud .cloudS20 {font-size:11px; color:#aaaaaa;}
+    .tagCloud .cloudS30 {font-size:11px; color:#999999;}
+    .tagCloud .cloudS40 {font-size:12px; color:#999999;}
+    .tagCloud .cloudS50 {font-size:14px; color:#666666;}
+    .tagCloud .cloudS60 {font-size:16px; color:#666666;}
+    .tagCloud .cloudS70 {font-size:18px; color:#333333;}
+    .tagCloud .cloudS80 {font-size:22px; color:#333333;}
+    .tagCloud .cloudS90 {font-size:28px; color:#111111; }
+    .tagCloud .cloudS100 {font-size:36px; color:#111111;}
+    .tagCloudMore {padding:6px 0 0 0; margin:0 10px; text-align:center; border-top:#ccc solid 1px; font-size:11px;}
+    .tagCloudMore a, .tagCloudMore a:link, .tagCloudMore a:visited {color:#999; text-decoration:none;}
+    .tagCloudMore a:hover {color:red; text-decoration:underline; cursor:pointer;}
 
  /* tag cloud */
-	.tagCloud {padding:10px;}
-	.tagCloud .cloudItem {float:left; padding:2px; white-space:nowrap; margin:0 6px 0 0;}
-	.tagCloud .cloudItem:hover {background:#005782; color:white; cursor:pointer;}
-	.tagCloud .cloudS10 {font-size:10px; color:#aaaaaa;}
-	.tagCloud .cloudS20 {font-size:11px; color:#aaaaaa;}
-	.tagCloud .cloudS30 {font-size:11px; color:#999999;}
-	.tagCloud .cloudS40 {font-size:12px; color:#999999;}
-	.tagCloud .cloudS50 {font-size:14px; color:#666666;}
-	.tagCloud .cloudS60 {font-size:16px; color:#666666;}
-	.tagCloud .cloudS70 {font-size:18px; color:#333333;}
-	.tagCloud .cloudS80 {font-size:22px; color:#333333;}
-	.tagCloud .cloudS90 {font-size:28px; color:#111111; }
-	.tagCloud .cloudS100 {font-size:36px; color:#111111;}
-	.tagCloudMore {padding:6px 0 0 0; margin:0 10px; text-align:center; border-top:#ccc solid 1px; font-size:11px;}
-	.tagCloudMore a, .tagCloudMore a:link, .tagCloudMore a:visited {color:#999; text-decoration:none;}
-	.tagCloudMore a:hover {color:red; text-decoration:underline; cursor:pointer;}
+    .tagCloud {padding:10px;}
+    .tagCloud .cloudItem {float:left; padding:2px; white-space:nowrap; margin:0 6px 0 0;}
+    .tagCloud .cloudItem:hover {background:#005782; color:white; cursor:pointer;}
+    .tagCloud .cloudS10 {font-size:10px; color:#aaaaaa;}
+    .tagCloud .cloudS20 {font-size:11px; color:#aaaaaa;}
+    .tagCloud .cloudS30 {font-size:11px; color:#999999;}
+    .tagCloud .cloudS40 {font-size:12px; color:#999999;}
+    .tagCloud .cloudS50 {font-size:14px; color:#666666;}
+    .tagCloud .cloudS60 {font-size:16px; color:#666666;}
+    .tagCloud .cloudS70 {font-size:18px; color:#333333;}
+    .tagCloud .cloudS80 {font-size:22px; color:#333333;}
+    .tagCloud .cloudS90 {font-size:28px; color:#111111; }
+    .tagCloud .cloudS100 {font-size:36px; color:#111111;}
+    .tagCloudMore {padding:6px 0 0 0; margin:0 10px; text-align:center; border-top:#ccc solid 1px; font-size:11px;}
+    .tagCloudMore a, .tagCloudMore a:link, .tagCloudMore a:visited {color:#999; text-decoration:none;}
+    .tagCloudMore a:hover {color:red; text-decoration:underline; cursor:pointer;}
 
 
 /* www.elvissalic.com Soundclick CSS style sheet 2015 Oct*/ 
@@ -143,7 +168,7 @@ color: #291f06; top: 26px; opacity: 1; margin: auto 676px; font-size:9px; }
     font-size: 12px;
     margin-left: -482px;
     position: absolute;
-    margin-top: 1026px;
+    margin-top: 1040px;
     width: 620px;
     z-index: 55;
     left: 50%;
@@ -165,7 +190,7 @@ color: #291f06; top: 26px; opacity: 1; margin: auto 676px; font-size:9px; }
 -o-transition: .5s all ease-in-out;transition: .5s all ease-in-out;no-repeat;}
 .songsBox a:hover {text-decoration:underline; color:#ca022e;}
 a.songtitle:link, a.songtitle:visited {color: #c6c6c6; text-decoration:none; font-size:14px; }
-.songsBox .actionlinks {font-size:11px; color: #ca022e;	} 
+.songsBox .actionlinks {font-size:11px; color: #ca022e; } 
 .songsBox .topSong {-webkit-transition: .5s all ease-in-out;-moz-transition: .5s all ease-in-out;
 -o-transition: .5s all ease-in-out;transition: .5s all ease-in-out;color:#e72a45; float:left; text-align:left; font-size:10px; font-weight: 600;}
 .songsBox .topSong:hover {color:#f1b421; float:left; text-align:left; font-size:11px;right:20px;}
@@ -230,35 +255,6 @@ a:hover {
     margin-left: -266px;
     position: absolute;
 }
-
-
-
-.instant_store {
-    width: 610px;
-    height: 385px;
-    left: 50%;
-    margin-left: -472px;
-    margin-top: 1296px;
-    top: 0;
-    z-index: 4;
-    position: absolute;
-}
-
-.mfs_player {
-    position: relative; 
-    height: 385px; 
-    width: 610px; 
-}
-
-.mfs_buynow {
-	width:67px;
-	height: 19px;
-	position:absolute;
-	top: 357px;
-	left: 535px;
-}
-
-
 
 /*******Social Top Nav Bar Buttons*******/ 
 #email {
@@ -406,7 +402,7 @@ position: absolute;
 #free_downloads:hover {
 background-position: bottom right;
 } 
-			
+            
 
 
 
@@ -426,7 +422,7 @@ position: absolute;
 #license_bttn:hover {
 opacity: 0;
 } 
-			
+            
 
 
 
@@ -446,7 +442,7 @@ position: absolute;
 #license_bttn2:hover {
 opacity: 0;
 } 
-			
+            
 
 
 
@@ -465,8 +461,8 @@ position: absolute;
 }
 #license_bttn3:hover {
 opacity: 0;
-} 	
-			
+}   
+            
 
 
 
@@ -485,7 +481,7 @@ position: absolute;
 }
 #license_bttn4:hover {
 opacity: 0;
-} 			
+}           
 
 
 
@@ -565,7 +561,7 @@ display:none;
 #bitcoin_professional:hover {
 background-position: bottom right;
 } 
-	
+    
 
 
 #whati_btc {
@@ -584,7 +580,7 @@ display:none;
 }
 #whati_btc:hover {
 background-position: bottom right;
-} 	
+}   
 
 
 #howtobuy_btc {
@@ -640,3 +636,7 @@ position: absolute;
 #sellmusic_bttn:hover {
 background-position: bottom left;
 } 
+
+            
+            
+            

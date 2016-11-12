@@ -1,3 +1,25 @@
+@font-face {
+    font-family: "Montserrat Bold";
+    font-weight: bold;
+    src: url("/Montserrat-Bold.otf") format("opentype");
+}
+
+
+.contText {
+    width: 100%;
+}
+
+.social-media {
+    float: right;
+    padding-right: 50px;
+    padding-top: -30px;
+}
+
+.social-media a {
+    height: 35px;
+    width: 35px;
+}
+
 .instant_store {
     width: 610px;
     height: 385px;
@@ -85,29 +107,30 @@
 
 /* www.elvissalic.com Soundclick CSS style sheet 2015 Oct*/ 
 
-       .mainTable {
-         background: transparent;
-         color:#6f6f6f;
-         width:921px;
-         margin-left:auto;
-         margin-right:auto;
-         text-align:left;
-         border: none;
-         }
+.mainTable {
+    background: transparent;
+    color:#6f6f6f;
+    width:1200px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align:left;
+    border: none;
+}
+
 .mainContent {
         background: transparent;
         color:#BCBCBC;
-        width:921px;
+        width:1200px;
         float:left;
         overflow:hidden;
         margin:10px 0px 20px 0px;
         } 
-        .navbarBottom, .navbarTop {width:921px;}
+        .navbarBottom, .navbarTop {width:1200px;}
 
 .navigation {
         /* background: url(); */
         /* color:#000; */
-        /* width:921px; */
+        /* width:1200px; */
         /* height: 2410px; */
         /* float:left; */
         /* z-index:9; */

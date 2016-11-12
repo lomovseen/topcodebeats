@@ -1,10 +1,3 @@
-@font-face {
-    font-family: "Montserrat Bold";
-    font-weight: bold;
-    src: url("/Montserrat-Bold.otf") format("opentype");
-}
-
-
 .contText {
     width: 100%;
 }
@@ -151,7 +144,13 @@
 color: #291f06; top: 26px; opacity: 1; margin: auto 676px; font-size:9px; }
 
 
- .completeNavHeader {z-index: 999;  position:relative; opacity: 100; top:-999px;}
+ .completeNavHeader {
+    z-index: 999;
+    position:relative;
+    opacity: 100;
+    top:-999px;
+    display: none !important;
+}
 
 
 .headline {display:none;}

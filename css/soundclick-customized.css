@@ -1,10 +1,17 @@
 .header { position: relative; }
 .header a { position: absolute; top: -11px; }
-#about-menu-item        { left: 285px; }
+#home-menu-item         { left: 285px; }
 #store-menu-item        { left: 375px; }
 #beats-rights-menu-item { left: 485px; }
 #contact-menu-item      { left: 650px; }
 #email-menu-item        { left: 910px; }
+
+.anchors { position: relative; }
+.anchors div { position: absolute; left: 0px; }
+#home-anchor       { top: 0px; }
+#store-anchor      { top: 630px; }
+#beat-right-anchor { top: 1300px; }
+#subscribe-anchor  { top: 1300px; }
 
 .contText {
     width: 100%;

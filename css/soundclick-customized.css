@@ -1,3 +1,20 @@
+
+.manual-store { 
+    margin-top: 1105px;
+    margin-left: 100px;
+    position: relative;
+}
+
+.manual-store input, .manual-store select { position: absolute; top: 0px; height: 40px; }
+
+.manual-store #license-type { left: 0px; width: 200px; height: 40px; }
+.manual-store #beats-names { left: 215px; height: 34px; width: 200px; }
+.manual-store .submit { left: 435px; }
+
+.manual-store form input { 
+    background-color: black;
+}
+
 .header { position: relative; }
 .header a { position: absolute; top: -11px; }
 #home-menu-item         { left: 285px; }

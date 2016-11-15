@@ -1,3 +1,24 @@
+.top-buttons-group { position: relative; }
+.top-buttons-group a { position: absolute; left: 0px; top: 100px; }
+
+.top-buttons-group #subscribe-button {
+    left: 100px;
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button.png)
+}
+
+.top-buttons-group #subscribe-button:hover {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button-hover.png)
+}
+
+.top-buttons-group #shop-now-button {
+    left: 200px;
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/shop-now-button.png)
+}
+
+.top-buttons-group #shop-now-button:hover {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/shop-now-button-hover.png)
+}
+
 
 .manual-store { 
     margin-top: 1105px;
@@ -267,7 +288,7 @@ color: #e8e6eb;
 .commentsPostBox .ratingsBox {background:#000; color:#CCC; clear:both; padding:7px 0px; margin:0px 250px 20px 30px;}
 
 body {
-    background-image: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/bf1d0243de52a57c196ae458738e461678925c0c/images/main.png);
+    background-image: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/main.jpg);
     background-color: #fff;
     background-position: top center;
     background-repeat: no-repeat;

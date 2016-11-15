@@ -1,17 +1,8 @@
-.top-buttons-group { position: relative; }
-.top-buttons-group a { position: absolute; left: 0px; top: 100px; }
-
-.top-buttons-group #subscribe-button {
-    left: 100px;
-    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button.png)
-}
-
-.top-buttons-group #subscribe-button:hover {
-    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button-hover.png)
-}
+.top-buttons-group { position: relative; height: 180px; float: left; top: 411px;}
+.top-buttons-group a { position: absolute; top: 0px; width: 171px; height: 51px; }
 
 .top-buttons-group #shop-now-button {
-    left: 200px;
+    left: 83px;
     background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/shop-now-button.png)
 }
 
@@ -19,6 +10,20 @@
     background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/shop-now-button-hover.png)
 }
 
+.top-buttons-group #subscribe-button {
+    left: 286px;
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button.png)
+}
+
+.top-buttons-group #subscribe-button:hover {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button-hover.png)
+}
+
+.top-buttons-group #arrow-right-button {
+    left: 961px; top: -258px;
+    width: 67px; height: 67px;
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/elements/arrow-right.png)
+}
 
 .manual-store { 
     margin-top: 1105px;
@@ -47,9 +52,9 @@
 .anchors { position: relative; }
 .anchors div { position: absolute; left: 0px; }
 #home-anchor       { top: 0px; }
-#store-anchor      { top: 630px; }
+#store-anchor      { top: 740px; }
 #beat-right-anchor { top: 1300px; }
-#subscribe-anchor  { top: 1300px; }
+#subscribe-anchor  { top: 1590px; }
 
 .contText {
     width: 100%;

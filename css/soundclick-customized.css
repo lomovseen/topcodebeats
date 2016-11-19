@@ -1,4 +1,5 @@
-#main-container {height: 4000px;}
+#main-container { height: 4000px; }
+
 
 .top-buttons-group { position: relative; height: 180px; float: left; top: 411px; }
 .top-buttons-group a { position: absolute; top: 0px; width: 171px; height: 51px; }
@@ -22,28 +23,24 @@
 }
 
 .top-buttons-group #arrow-right-button {
-    left: 961px; top: -258px;
+    left: 961px; top: -246px;
     width: 67px; height: 67px;
     background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/elements/arrow-right.png)
 }
 
-.manual-store { 
-    margin-top: 1105px;
-    margin-left: 100px;
-    position: relative;
-}
-
-.view-license-buttons-group { position: relative; height: 180px; float: left; top: 1900px; }
+.view-license-buttons-group { position: relative; height: 180px; float: left; top: 1908px; }
 .view-license-buttons-group a { position: absolute; top: 0px; }
 
 .view-license-buttons-group a.view-license-button { width: 176px; height: 47px; background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/view-license-button.png) }
 .view-license-buttons-group a.view-license-button:hover { background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/view-license-button-hover.png) }
 .view-license-buttons-group #papper-plane {
-    width: 176px; height: 47px;
+    top: 151px; left: 858px;
+    width: 39px; height: 39px;
     background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/elements/papper-plane.png)
 }
 .view-license-buttons-group #send-email-to-me {
-    width: 176px; height: 47px;
+    left: 365px; top: 167px;
+    width: 479px; height: 9px;
     background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/send-email-to-me.png)
 }
 
@@ -51,18 +48,36 @@
 #view-license-button-2 {left: 521px;}
 #view-license-button-3 {left: 833px;}
 
-.manual-store input, .manual-store select { position: absolute; top: 0px; height: 40px; }
-
-.manual-store #license-type { left: 0px; width: 200px; height: 40px; }
-.manual-store #beats-names { left: 215px; height: 34px; width: 200px; }
-.manual-store .submit { left: 435px; }
-
-.manual-store form input { 
-    background-color: black;
+.manual-store {
+    top: 1077px;
+    height: 100px;
+    float: left;
+    position: relative;
+    left: 100px;
 }
 
+.manual-store select, .manual-store input {position: absolute; top: 0px; height: 40px; padding-left: 6px; }
+#license-type, #beats-names {
+    position: absolute; top: 0px; height: 40px;
+    background: #333; color: #bbb;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.4);
+    border: 1px solid #6f6f6f;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+}
+
+.manual-store #license-type {
+    background: #333; color: #bbb;
+    text-shadow: 0 1px 0 rgba(0,0,0,0.4);
+    left: 0px; width: 194px; height: 40px;
+    border-style: solid;
+}
+.manual-store #beats-names { left: 215px; height: 36px; width: 194px; }
+.manual-store .submit { left: 435px; }
+
 .header { position: relative; }
-.header a { position: absolute; top: -11px; }
+.header a { position: absolute; top: -14px; }
 #home-menu-item         { left: 285px; }
 #store-menu-item        { left: 375px; }
 #beats-rights-menu-item { left: 485px; }
@@ -196,7 +211,7 @@
         width:1200px;
         float:left;
         overflow:hidden;
-        margin:10px 0px 20px 0px;
+        margin: 0;
 } 
 .navbarBottom, .navbarTop {width:1200px;}
 
@@ -271,13 +286,14 @@ color: #291f06; top: 26px; opacity: 1; margin: auto 676px; font-size:9px; }
     font-size: 12px;
     position: absolute;
     margin-left: -517px;
-    margin-top: 1100px;
-    width: 620px;
+    margin-top: 1114px;
+    width: 669px;
     z-index: 55;
     left: 50%;
     top: 0;
 }
 
+.embeddedPlayer #embedFrame {width: 669px;}
 .contHeadline {display:none;}
 .contHeadline {display:none;}
 
@@ -734,3 +750,5 @@ position: absolute;
 #sellmusic_bttn:hover {
 background-position: bottom left;
 } 
+
+select { -webkit-appearance: none }

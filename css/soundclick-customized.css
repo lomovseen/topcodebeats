@@ -35,8 +35,11 @@
 }
 
 #contact-us-button {
-    position: relative; float: left; top: 3411px; left: 120px;
-    width: 171px; height: 51px;
+    position: relative; float: left;
+    top: 3633px;
+    left: -479px;
+    width: 176px;
+    height: 47px;
     background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/contact-us-button.png)
 }
 

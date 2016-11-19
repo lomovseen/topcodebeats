@@ -4,7 +4,7 @@
     position: relative;
     height: 50px;
     float: left;
-    top: 3116px;
+    top: 3072px;
     left: -239px;
     width: 470px;
 }
@@ -135,10 +135,11 @@
 
 .anchors { position: relative; }
 .anchors div { position: absolute; left: 0px; }
-#home-anchor       { top: 0px; }
-#store-anchor      { top: 740px; }
-#beat-right-anchor { top: 1300px; }
-#subscribe-anchor  { top: 1590px; }
+#home-anchor          { top: 0px; }
+#manual-store-anchor  { top: 740px; }
+#beat-right-anchor    { top: 1180px; }
+#instant-store-anchor { top: 2140px; }
+#subscribe-anchor     { top: 2950px; }
 
 .contText {
     width: 100%;

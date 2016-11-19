@@ -34,6 +34,16 @@
     -webkit-border-radius: 21px;
 }
 
+#contact-us-button {
+    position: relative; float: left; top: 3411px; left: 120px;
+    width: 171px; height: 51px;
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/contact-us-button.png)
+}
+
+#contact-us-button {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/contact-us-button-hover.png)
+}
+
 .top-buttons-group { position: relative; height: 180px; float: left; top: 411px; }
 .top-buttons-group a { position: absolute; top: 0px; width: 171px; height: 51px; }
 

@@ -1,22 +1,37 @@
 #main-container { height: 4000px; }
 
 #subscribe-form {
-    position: relative; height: 180px; float: left; top: 3211px; left: -200px;
+    position: relative;
+    height: 50px;
+    float: left;
+    top: 3116px;
+    left: -239px;
+    width: 470px;
 }
 
-#subscribe-form .submit {}
-#subscribe-form .email {
+#subscribe-form .submit {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/send-button.png);
+    border: none;
+    width: 139px;
     height: 46px;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+#subscribe-form .email {
+    height: 42px;
+    width: 400px;
+    color: #999;
+    border-radius: 21px;
     border: 1px solid #ccc;
     background: #eee;
-    color: #999;
-    padding-left: 15px;
-    font-size: 25px;
-    padding-left:18px;
-    border-radius: 21px;
+    padding-left: 18px;
+    font-size: 15px;
+    float: left;
+    top: 0;
+    position: absolute;
     -moz-border-radius: 21px;
     -webkit-border-radius: 21px;
-
 }
 
 .top-buttons-group { position: relative; height: 180px; float: left; top: 411px; }
@@ -168,6 +183,7 @@
     position: absolute;
     top: 3300px;
     width: 100%;
+    display: none !important;
 }
 
 .mainTable .mainContent:nth-child(2):first div:nth-child(2):first div:nth-child(4) {
@@ -774,3 +790,12 @@ background-position: bottom left;
 } 
 
 select { -webkit-appearance: none }
+
+.songsBox {
+    background: none;
+    width: 800px !important;
+    margin: auto;
+    padding-bottom: 44px;
+    padding-left: 200px;
+    padding-top: 25px;
+}

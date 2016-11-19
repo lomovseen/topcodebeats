@@ -112,12 +112,10 @@
 .instant_store {
     width: 610px;
     height: 385px;
-    left: 50%;
-    margin-left: -486px;
-    margin-top: 2418px;
-    top: 0;
-    z-index: 4;
-    position: absolute;
+    top: 2418px;
+    z-index: 3;
+    position: relative;
+    float: left;
 }
 
 .mfs_player {

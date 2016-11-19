@@ -1,4 +1,4 @@
-.top-buttons-group { position: relative; height: 180px; float: left; top: 411px;}
+.top-buttons-group { position: relative; height: 180px; float: left; top: 411px; }
 .top-buttons-group a { position: absolute; top: 0px; width: 171px; height: 51px; }
 
 .top-buttons-group #shop-now-button {
@@ -29,6 +29,19 @@
     margin-top: 1105px;
     margin-left: 100px;
     position: relative;
+}
+
+.view-license-buttons-group {
+  position: relative; height: 180px; float: left; top: 1411px;
+}
+
+.view-license-buttons-group a { position: absolute; top: 0px; width: 171px; height: 51px; }
+
+a.view-license-button {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/view-license-button.png)
+}
+a.view-license-button:hover {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/view-license-button-hover.png)
 }
 
 .manual-store input, .manual-store select { position: absolute; top: 0px; height: 40px; }

@@ -133,7 +133,7 @@
 #contact-menu-item      { left: 650px; }
 #email-menu-item        { left: 910px; }
 
-.anchors { position: relative; }
+.anchors { position: relative; width: 0px; }
 .anchors div { position: absolute; left: 0px; }
 #home-anchor          { top: 0px; }
 #manual-store-anchor  { top: 740px; }

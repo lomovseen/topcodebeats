@@ -171,7 +171,7 @@
 .instant_store {
     width: 610px;
     height: 385px;
-    top: 2369px;
+    top: 2311px;
     z-index: 3;
     position: relative;
     float: left;
@@ -182,14 +182,18 @@
     width: 176px;
     height: 47px;
     display: block;
-    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/manual-store-button.png);
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/mobile-store-button.jpg);
+    right: 0px;
+    top: 21px;
+    position: absolute;
 }
 
 
 .mfs_player {
-    position: relative; 
-    height: 385px; 
-    width: 610px; 
+    position: relative;
+    height: 385px;
+    width: 610px;
+    margin-top: 47px;
 }
 
 .instant_store .mfs_player object { width: 670px; }

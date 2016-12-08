@@ -1,12 +1,24 @@
 #main-container { height: 4000px; }
 
-#subscribe-form {
+
+#subscribe-in-mailchimp-button {
     position: relative;
-    height: 50px;
     float: left;
-    top: 3072px;
-    left: -239px;
-    width: 470px;
+    top: 3110px;
+    left: -281px;
+    width: 171px;
+    height: 51px;
+}
+
+#subscribe-in-mailchimp-button a {
+    width: 171px;
+    height: 51px;
+    display: block;
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button.png);
+}
+
+#subscribe-in-mailchimp-button a:hover {
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/subscribe-button-hover.png);
 }
 
 #subscribe-form .submit {
@@ -165,6 +177,14 @@
     float: left;
     left: 76px;
 }
+
+#mobile-store-button {
+    width: 176px;
+    height: 47px;
+    display: block;
+    background: url(https://raw.githubusercontent.com/lomovseen/topcodebeats/master/images/text/manual-store-button.png);
+}
+
 
 .mfs_player {
     position: relative; 
